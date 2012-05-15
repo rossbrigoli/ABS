@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Program Files (x86)/Microsoft Visual Studio 10.0/Common7/IDE/Extensions/Microsoft/Visualization and Modeling Feature Pack/2.0/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log">
+  <Message Timestamp="2012-05-08T01:48:44" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="ProjectPath = ..\com.hoomba.Appointments.Model\com.hoomba.Appointments.Model.csproj" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="TargetDirectory = Models\{PackageStructure}" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="TemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:44" Importance="Medium" Text="AppointmentBookingSystem's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'AppointmentBookingSystem::Service' -  (Class), 'AppointmentBookingSystem::ServiceProvider' -  (Class), 'AppointmentBookingSystem::Appointment' -  (Class), 'AppointmentBookingSystem::Resource' -  (Class), 'AppointmentBookingSystem::ContactInfo' -  (Class), 'AppointmentBookingSystem::ServiceConsumer' -  (Class), 'AppointmentBookingSystem::Customer' -  (Class) " />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::Service' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\Service.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::ServiceProvider' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\ServiceProvider.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::Appointment' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\Appointment.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::Resource' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\Resource.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::ContactInfo' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\ContactInfo.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::ServiceConsumer' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\ServiceConsumer.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::Customer' -  (Class) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Models\Customer.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="ProjectPath = ..\com.hoomba.Appointments.Model\com.hoomba.Appointments.Model.csproj" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TargetDirectory = Enums\{PackageStructure}" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="AppointmentBookingSystem's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'AppointmentBookingSystem::ServiceType' -  (Enumeration), 'AppointmentBookingSystem::ServiceConsumerType' -  (Enumeration) " />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::ServiceType' -  (Enumeration) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Enums\ServiceType.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="'AppointmentBookingSystem::ServiceConsumerType' -  (Enumeration) : success (file replaced) - C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\Enums\ServiceConsumerType.cs" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="ProjectPath = ..\com.hoomba.Appointments.Model\com.hoomba.Appointments.Model.csproj" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TargetDirectory = Structs\{PackageStructure}" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="TemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\Visualization and Modeling Feature Pack\2.0\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Medium" Text="AppointmentBookingSystem's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'AppointmentBookingSystem::Service' -  (Class), 'AppointmentBookingSystem::ServiceProvider' -  (Class), 'AppointmentBookingSystem::Appointment' -  (Class), 'AppointmentBookingSystem::Resource' -  (Class), 'AppointmentBookingSystem::ContactInfo' -  (Class), 'AppointmentBookingSystem::ServiceConsumer' -  (Class), 'AppointmentBookingSystem::Customer' -  (Class) " />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="'AppointmentBookingSystem::Service' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="'AppointmentBookingSystem::ServiceProvider' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:45" Importance="Diagnostic" Text="'AppointmentBookingSystem::Appointment' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::Resource' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::ContactInfo' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::ServiceConsumer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::Customer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="The selection included 12 elements which were not bound to a template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="Diagnostic" Text="'AppointmentBookingSystem::' -  (Association): no bound template." />
+  <Message Timestamp="2012-05-08T01:48:46" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

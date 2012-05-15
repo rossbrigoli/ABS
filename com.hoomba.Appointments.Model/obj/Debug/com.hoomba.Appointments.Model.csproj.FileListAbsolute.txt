@@ -1,0 +1,5 @@
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\bin\Debug\com.hoomba.Appointments.Model.dll
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\bin\Debug\com.hoomba.Appointments.Model.pdb
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\obj\Debug\com.hoomba.Appointments.Model.dll
+C:\Users\Ross\Documents\Visual Studio 2010\Projects\AppointmentBookingSystem\com.hoomba.Appointments.Model\obj\Debug\com.hoomba.Appointments.Model.pdb

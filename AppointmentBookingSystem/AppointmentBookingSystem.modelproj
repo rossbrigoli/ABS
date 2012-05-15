@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{006e7f41-f0e1-4d8e-938a-24f34e2708c7}</ProjectGuid>
+    <ArchitectureToolsVersion>1.0.0.0</ArchitectureToolsVersion>
+    <Name>AppointmentBookingSystem</Name>
+    <RootNamespace>AppointmentBookingSystem</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" />
+  <ItemGroup>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="DataModel.classdiagram">
+      <SubType>Content</SubType>
+      <CustomToolNamespace>com.hoomba.Appointments.Models</CustomToolNamespace>
+    </Content>
+    <Content Include="DataModel.classdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>DataModel.classdiagram</DependentUpon>
+    </Content>
+    <Content Include="ModelDefinition\AppointmentBookingSystem.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>
